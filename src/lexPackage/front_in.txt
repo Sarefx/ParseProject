@@ -1,0 +1,3 @@
+(sum + 47) / total
+Area = (length  + width) * 2
+C = age + 3 - 5 * (D / C)
